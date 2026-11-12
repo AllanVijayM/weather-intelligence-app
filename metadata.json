@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence Dashboard",
+  "description": "Real-time weather intelligence, 7-day forecast, interactive charts, and activity recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
